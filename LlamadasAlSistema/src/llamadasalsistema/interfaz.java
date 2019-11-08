@@ -61,7 +61,7 @@ public class interfaz extends javax.swing.JFrame {
         jButton1.setBackground(new java.awt.Color(153, 153, 255));
         jButton1.setFont(new java.awt.Font("Arial", 1, 14)); // NOI18N
         jButton1.setForeground(new java.awt.Color(0, 51, 51));
-        jButton1.setText("LLenar Archivo de texto");
+        jButton1.setText("LLenaraaa Archivoaaa de texto");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
